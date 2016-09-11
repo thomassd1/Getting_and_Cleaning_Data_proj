@@ -17,7 +17,7 @@
 ## "UCI HAR Dataset".
 ##
 ## The transformed data is written to a file called "tidy_data.txt". This
-## file can be read into a data.frame via read.table("tidy_data.txt", header = T).
+## file can be read into a data.frame via read.table("tidydata.txt", header = T).
 
 # load needed libraries
 library(data.table)
